@@ -1,0 +1,6 @@
+InTrade - bool yes or no
+function t store 
+shortterm volume across k number of condles sum of the candle volumes
+long term volume across last k number of candles
+
+store the lowest and highest prices when in Trade is yes
